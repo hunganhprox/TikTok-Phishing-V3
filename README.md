@@ -5,7 +5,7 @@
 ### 3.Edit mail.php . Change email to your Gmail Address
 ### 4.All the logs will be sent to your Gmail.It will be in Spam Folder
 ## ScreenShot :
-p align="left">
+<p align="left">
    <img src="https://raw.githubusercontent.com/hunganhprox/TikTok-Phishing-V3/main/Screenshot%20(5).png" width=450px height=550px>
    </p>
 <p align="left">
